@@ -30,7 +30,7 @@ NTAprioritization is an R package for analyzing raw candidate list obtained from
 
 `install.packages("devtools")`
 
-`devtools::install_github("NTAprioritization/NTAprioritization")`
+`devtools::install_github("FangLabNTU/NTAprioritization")`
 
 ## **Data processing**
 1. Get predicted retention time and RT-MS/MS level by typing getRTMSMS() in Rstudio console:
